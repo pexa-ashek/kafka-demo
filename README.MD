@@ -5,6 +5,7 @@
 
 ### Create Kafka Topic
 ```
+docker exec --interactive --tty kafka1  \
 kafka-topics --bootstrap-server kafka1:19092 \
              --create \
              --topic test-topic \
