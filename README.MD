@@ -27,3 +27,6 @@ kafka-console-consumer --bootstrap-server kafka1:19092 \
                        --topic test-topic \
                        --from-beginning
 ```
+
+test 1
+test 2
