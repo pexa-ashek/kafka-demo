@@ -29,3 +29,4 @@ kafka-console-consumer --bootstrap-server kafka1:19092 \
 ```
 
 test 1
+test 2
